@@ -9,6 +9,14 @@ Unity and C# for Game Programming
 
 -The user can touch (swap) the character into one of these lanes' areas.
 
+-Animation transition appears when the game starts, as the character is standing and then suddenly starts running, also when game over it stops running.
+
+-You can move character to left, right or up (making it jump) .
+
+-When character jumps ,some distance in the z-axis is covered, so it keeps running while jumping, it doesn't jump in its place, the character is always running unitl game over .
+
+-This helps to skip the part where there are 3 cubes after each other (Maximum) , if more you have to skip that lane.
+
 -The barriers here are 3D cubes, if once touched (collision occurs) , it is game over.
 
 -Cubes should be avoided by changing lanes' areas or simply jumping over them without collision.
