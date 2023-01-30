@@ -1,4 +1,4 @@
-# Endless-Runner
+# Endless-Runner-Game
 Unity and C# for Game Programming 
 
 ![Icon](https://user-images.githubusercontent.com/112272836/214951029-141f79e7-541e-44e6-9bcb-2a5dcca690f8.PNG)
